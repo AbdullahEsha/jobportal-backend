@@ -4,7 +4,7 @@ const dbConnect = require('./utils/dbConn')
 const PORT = process.env.PORT || 5000
 
 app.get('/', (req, res) => {
-  res.send('hello world! test check operational....')
+  res.send('🌈🔥🎯☢️💯🚀🤖👨‍💻⚡')
 })
 
 app.listen(PORT, () => {
